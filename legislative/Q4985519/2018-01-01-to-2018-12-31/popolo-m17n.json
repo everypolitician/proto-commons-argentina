@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Marcelo Ramal",
+        "lang:en": "Marcelo Ramal"
+      },
+      "id": "Q5995900",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5995900"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/marcelo.ramal"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Legislatura de la Ciudad de Buenos Aires",
+        "lang:en": "Buenos Aires City Legislature"
+      },
+      "id": "Q4985519",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4985519"
+        }
+      ],
+      "area_id": "Q1486",
+      "seat_counts": {
+        "Q41794659": "60"
+      }
+    },
+    {
+      "name": {
+        "lang:es": "Frente de Izquierda y de los Trabajadores",
+        "lang:en": "Workers' Left Front"
+      },
+      "id": "Q598744",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q598744"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5995900-7a4b2100-4dba-66cf-b84c-b580e865a606",
+      "person_id": "Q5995900",
+      "on_behalf_of_id": "Q598744",
+      "organization_id": "Q4985519",
+      "start_date": "2015-12-10",
+      "role_code": "Q41794659",
+      "role": {
+        "lang:es": "Legislador de la Ciudad de Buenos Aires"
+      }
+    }
+  ]
+}

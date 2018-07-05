@@ -1,0 +1,6686 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Carlos Mauricio Espínola",
+        "lang:en": "Carlos Espínola"
+      },
+      "id": "Q1042890",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1042890"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Humberto Schiavoni",
+        "lang:en": "Humberto Schiavoni"
+      },
+      "id": "Q11682645",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11682645"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María Cristina Perceval",
+        "lang:en": "María Perceval"
+      },
+      "id": "Q11691402",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11691402"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Osvaldo Ramón López",
+        "lang:en": "Osvaldo Ramón López"
+      },
+      "id": "Q15225900",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15225900"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Fabián Ríos",
+        "lang:en": "Fabián Ríos"
+      },
+      "id": "Q1566440",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1566440"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mónica Troadello",
+        "lang:en": "Mónica Troadello"
+      },
+      "id": "Q16186930",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16186930"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rosana Bertone",
+        "lang:en": "Rosana Bertone"
+      },
+      "id": "Q16297791",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16297791"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jorge Alberto Garramuño",
+        "lang:en": "Jorge Alberto Garramuño"
+      },
+      "id": "Q16300730",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16300730"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Magdalena Odarda",
+        "lang:en": "Magdalena Odarda"
+      },
+      "id": "Q16301366",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16301366"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Manuel Irrazábal",
+        "lang:en": "Juan Manuel Irrazábal"
+      },
+      "id": "Q16301802",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16301802"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rodolfo Urtubey",
+        "lang:en": "Rodolfo Urtubey"
+      },
+      "id": "Q16302727",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16302727"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Laura Montero",
+        "lang:en": "Laura Montero"
+      },
+      "id": "Q16589675",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16589675"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Horacio Lores",
+        "lang:en": "Horacio Lores"
+      },
+      "id": "Q16731634",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16731634"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mario Cimadevilla",
+        "lang:en": "Mario Cimadevilla"
+      },
+      "id": "Q16736695",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16736695"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Reutemann",
+        "lang:en": "Carlos Reutemann"
+      },
+      "id": "Q173238",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q173238"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Faustino Miguel Parera",
+        "lang:en": "Faustino Miguel Parera"
+      },
+      "id": "Q17996387",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17996387"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Menem",
+        "lang:en": "Carlos Menem"
+      },
+      "id": "Q185107",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q185107"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/menem.conduccion"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José María Roldán",
+        "lang:en": "José María Roldán"
+      },
+      "id": "Q18711842",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711842"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mario Jorge Cimadevilla",
+        "lang:en": "Mario Jorge Cimadevilla"
+      },
+      "id": "Q18711845",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711845"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Eduardo Alberto Aguilar",
+        "lang:en": "Eduardo Alberto Aguilar"
+      },
+      "id": "Q18711852",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711852"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Manuel Irrazábal",
+        "lang:en": "Juan Manuel Irrazábal"
+      },
+      "id": "Q18711869",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711869"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sergio Francisco Mansilla",
+        "lang:en": "Sergio Francisco Mansilla"
+      },
+      "id": "Q18711870",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711870"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Guillermo Juan Pereyra",
+        "lang:en": "Guillermo Juan Pereyra"
+      },
+      "id": "Q18711889",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711889"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gerardo Antenor Montenegro",
+        "lang:en": "Gerardo Antenor Montenegro"
+      },
+      "id": "Q18711897",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711897"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Josefina Angélica Meabe",
+        "lang:en": "Josefina Angélica Meabe"
+      },
+      "id": "Q18711901",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711901"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Silvia Beatriz Elías de Pérez",
+        "lang:en": "Silvia Beatriz Elías de Pérez"
+      },
+      "id": "Q18711909",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711909"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Inés Blas",
+        "lang:en": "Inés Blas"
+      },
+      "id": "Q18711914",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711914"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Maria Cristina del Valle Fiore Viñuales",
+        "lang:en": "Maria Cristina del Valle Fiore Viñuales"
+      },
+      "id": "Q18711917",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711917"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Cristina-Fiore-Viñuales-380477738689513"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sigrid Elisabeth Kunath",
+        "lang:en": "Sigrid Elisabeth Kunath"
+      },
+      "id": "Q18711918",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711918"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María Esther Labado",
+        "lang:en": "María Esther Labado"
+      },
+      "id": "Q18711919",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711919"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Graciela Agustina Di Perna",
+        "lang:en": "Graciela Agustina Di Perna"
+      },
+      "id": "Q18711927",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711927"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María de los Angéles Higonet",
+        "lang:en": "María de los Angéles Higonet"
+      },
+      "id": "Q18711928",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711928"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carmen Lucila Crexell",
+        "lang:en": "Carmen Lucila Crexell"
+      },
+      "id": "Q18711932",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18711932"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Almirón",
+        "lang:en": "Carlos Almirón"
+      },
+      "id": "Q18715420",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18715420"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ramón Almendra",
+        "lang:en": "Ramón Almendra"
+      },
+      "id": "Q18715553",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18715553"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Raúl Baglini",
+        "lang:en": "Raúl Baglini"
+      },
+      "id": "Q18729145",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18729145"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Oraldo Norvel Britos",
+        "lang:en": "Oraldo Norvel Britos"
+      },
+      "id": "Q18755636",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18755636"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mabel Luisa Caparrós",
+        "lang:en": "Mabel Luisa Caparrós"
+      },
+      "id": "Q18756543",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18756543"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Liliana Capos",
+        "lang:en": "Liliana Capos"
+      },
+      "id": "Q18756552",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18756552"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María Elisa Castro",
+        "lang:en": "María Elisa Castro"
+      },
+      "id": "Q18757291",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18757291"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Lázaro Alberto Chiappe"
+      },
+      "id": "Q18759139",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18759139"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sergio Adrián Gallia",
+        "lang:en": "Sergio Adrián Gallia"
+      },
+      "id": "Q18810449",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18810449"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María G. De La Rosa",
+        "lang:en": "María G. De La Rosa"
+      },
+      "id": "Q18822404",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18822404"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pablo G. González",
+        "lang:en": "Pablo G. González"
+      },
+      "id": "Q18888590",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18888590"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Marcelo Eduardo López Arias",
+        "lang:en": "Marcelo Eduardo López Arias"
+      },
+      "id": "Q18888725",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18888725"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Dante Armando Lovaglio",
+        "lang:en": "Dante Armando Lovaglio"
+      },
+      "id": "Q18937432",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18937432"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Alberto Rossi",
+        "lang:en": "Carlos Alberto Rossi"
+      },
+      "id": "Q18947007",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18947007"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mario Rubén Mera",
+        "lang:en": "Mario Rubén Mera"
+      },
+      "id": "Q19016042",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19016042"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jorge Alberto Pardal",
+        "lang:en": "Jorge Alberto Pardal"
+      },
+      "id": "Q19118402",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19118402"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jorge Luciano Montoya",
+        "lang:en": "Jorge Luciano Montoya"
+      },
+      "id": "Q19204477",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19204477"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Eduardo Salazar",
+        "lang:en": "Carlos Eduardo Salazar"
+      },
+      "id": "Q19255415",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19255415"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro Salvatori",
+        "lang:en": "Pedro Salvatori"
+      },
+      "id": "Q19255497",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19255497"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ricardo César Taffarel",
+        "lang:en": "Ricardo César Taffarel"
+      },
+      "id": "Q19259990",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19259990"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María de los Ángeles Higonet",
+        "lang:en": "María de los Ángeles Higonet"
+      },
+      "id": "Q19261456",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19261456"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Amanda Mercedes Isidori",
+        "lang:en": "Amanda Mercedes Isidori"
+      },
+      "id": "Q19261478",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19261478"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mirtha M. T. Luna",
+        "lang:en": "Mirtha M. T. Luna"
+      },
+      "id": "Q19261510",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19261510"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Laura Martínez Pass de Cresto",
+        "lang:en": "Laura Martínez Pass de Cresto"
+      },
+      "id": "Q19261555",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19261555"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Marta Ethel Raso",
+        "lang:en": "Marta Ethel Raso"
+      },
+      "id": "Q19261658",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19261658"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María Dora Sánchez",
+        "lang:en": "María Dora Sánchez"
+      },
+      "id": "Q19261700",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19261700"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Malvina María Seguí",
+        "lang:en": "Malvina María Seguí"
+      },
+      "id": "Q19261710",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19261710"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Arcadio B. Avedaño",
+        "lang:en": "Arcadio B. Avedaño"
+      },
+      "id": "Q19264056",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19264056"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Elsa B. Ruiz Díaz",
+        "lang:en": "Elsa B. Ruiz Díaz"
+      },
+      "id": "Q19264161",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19264161"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Ángel Pichetto",
+        "lang:en": "Miguel Ángel Pichetto"
+      },
+      "id": "Q1932735",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1932735"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco Lucio García",
+        "lang:en": "Francisco Lucio García"
+      },
+      "id": "Q19841457",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19841457"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gladys González",
+        "lang:en": "Gladys González"
+      },
+      "id": "Q20015265",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20015265"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Omar Perotti",
+        "lang:en": "Omar Perotti"
+      },
+      "id": "Q20015616",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20015616"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Absalón Rojas",
+        "lang:en": "Absalón Rojas"
+      },
+      "id": "Q21014374",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21014374"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Guillermo Snopek",
+        "lang:en": "Guillermo Snopek"
+      },
+      "id": "Q21856278",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21856278"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/guillermosnopek"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/snopekguillermo"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Laura Rodríguez Machado",
+        "lang:en": "Laura Rodríguez Machado"
+      },
+      "id": "Q23807442",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23807442"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Marta Varela",
+        "lang:en": "Marta Varela"
+      },
+      "id": "Q27308136",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27308136"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María de los Ángeles Sacnún",
+        "lang:en": "María de los Ángeles Sacnún"
+      },
+      "id": "Q27309047",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27309047"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ernesto Félix Martínez",
+        "lang:en": "Ernesto Félix Martínez"
+      },
+      "id": "Q27640049",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27640049"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Eduardo Brizuela del Moral",
+        "lang:en": "Eduardo Brizuela del Moral"
+      },
+      "id": "Q3048310",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3048310"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Adolfo Rodríguez Saá",
+        "lang:en": "Adolfo Rodríguez Saá"
+      },
+      "id": "Q312358",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q312358"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Zavalía",
+        "lang:en": "José Luis Zavalía"
+      },
+      "id": "Q3186387",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3186387"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Cristina Kirchner",
+        "lang:en": "Cristina Kirchner"
+      },
+      "id": "Q40649",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q40649"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Alperovich",
+        "lang:en": "José Alperovich"
+      },
+      "id": "Q4122225",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4122225"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Alberto Caserio",
+        "lang:en": "Carlos Alberto Caserio"
+      },
+      "id": "Q41587390",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41587390"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mario Raymundo Fiad",
+        "lang:en": "Mario Raymundo Fiad"
+      },
+      "id": "Q41587454",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41587454"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ana Claudia Almirón",
+        "lang:en": "Ana Claudia Almirón"
+      },
+      "id": "Q41658526",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658526"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Anabel Fernández Sagasti",
+        "lang:en": "Anabel Fernández Sagasti"
+      },
+      "id": "Q41658530",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658530"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Beatriz Graciela Mirkin",
+        "lang:en": "Beatriz Graciela Mirkin"
+      },
+      "id": "Q41658534",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658534"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Dalmacio Mera",
+        "lang:en": "Dalmacio Mera"
+      },
+      "id": "Q41658537",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658537"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Daniel Aníbal Lovera",
+        "lang:en": "Daniel Aníbal Lovera"
+      },
+      "id": "Q41658542",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658542"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Anatolio Ojeda",
+        "lang:en": "José Anatolio Ojeda"
+      },
+      "id": "Q41658546",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658546"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Mario Pais",
+        "lang:en": "Juan Mario Pais"
+      },
+      "id": "Q41658550",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658550"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María Teresa Margarita González",
+        "lang:en": "María Teresa Margarita González"
+      },
+      "id": "Q41658558",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658558"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Nancy Susana González",
+        "lang:en": "Nancy Susana González"
+      },
+      "id": "Q41658560",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658560"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Norma Haydée Durango",
+        "lang:en": "Norma Haydée Durango"
+      },
+      "id": "Q41658565",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658565"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Silvia del Rosario Giacoppo",
+        "lang:en": "Silvia del Rosario Giacoppo"
+      },
+      "id": "Q41658575",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658575"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pamela Fernanda Verasay",
+        "lang:en": "Pamela Fernanda Verasay"
+      },
+      "id": "Q41658580",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658580"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alfredo Héctor Luenzo",
+        "lang:en": "Alfredo Héctor Luenzo"
+      },
+      "id": "Q41658584",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658584"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miriam Ruth Boyadjian",
+        "lang:en": "Miriam Ruth Boyadjian"
+      },
+      "id": "Q41658592",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41658592"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Amancio Alcorta (músico)",
+        "lang:en": "Amancio Jacinto Alcorta"
+      },
+      "id": "Q453619",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q453619"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Luis Sáenz Peña",
+        "lang:en": "Luis Sáenz Peña"
+      },
+      "id": "Q455709",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q455709"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Julio Cobos",
+        "lang:en": "Julio Cobos"
+      },
+      "id": "Q456351",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q456351"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rubén Giustiniani",
+        "lang:en": "Rubén Giustiniani"
+      },
+      "id": "Q464916",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q464916"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ada Itúrrez de Cappellini",
+        "lang:en": "Ada Itúrrez de Cappellini"
+      },
+      "id": "Q4678262",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4678262"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Cristina Lopez Valverde"
+      },
+      "id": "Q47108965",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47108965"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "José Rubén Uñac"
+      },
+      "id": "Q47167622",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47167622"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "María Eugenia Catalfamo"
+      },
+      "id": "Q47199903",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47199903"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ana Maria Ianni"
+      },
+      "id": "Q47199960",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47199960"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "María Belén Tapia"
+      },
+      "id": "Q47200046",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47200046"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Solari Quintana Magdalena"
+      },
+      "id": "Q47201914",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47201914"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alfredo Martínez",
+        "lang:en": "Alfredo Martínez"
+      },
+      "id": "Q4723820",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4723820"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alicia Mastandrea",
+        "lang:en": "Alicia Mastandrea"
+      },
+      "id": "Q4726283",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4726283"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Blanca Porcel de Riccobelli"
+      },
+      "id": "Q47439677",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47439677"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ana Corradi",
+        "lang:en": "Ana Corradi"
+      },
+      "id": "Q4750337",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4750337"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Antonio Bermejo",
+        "lang:en": "Antonio Bermejo"
+      },
+      "id": "Q4776451",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4776451"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Arturo Vera",
+        "lang:en": "Arturo Vera"
+      },
+      "id": "Q4801813",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4801813"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jorge Capitanich",
+        "lang:en": "Jorge Capitanich"
+      },
+      "id": "Q4837917",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4837917"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Maurice Closs",
+        "lang:en": "Maurice Closs"
+      },
+      "id": "Q4838458",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4838458"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Claudio Poggi",
+        "lang:en": "Claudio Poggi"
+      },
+      "id": "Q4838522",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4838522"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/claudio.javier.poggi"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Beatriz Rojkés de Alperovich",
+        "lang:en": "Beatriz Rojkés de Alperovich"
+      },
+      "id": "Q4877270",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4877270"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Rossi",
+        "lang:en": "Carlos Rossi"
+      },
+      "id": "Q5042591",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5042591"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Carlos Salazar"
+      },
+      "id": "Q5042606",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5042606"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pino Solanas",
+        "lang:en": "Fernando Solanas"
+      },
+      "id": "Q508497",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q508497"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "César Gioja",
+        "lang:en": "César Gioja"
+      },
+      "id": "Q5202553",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5202553"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Daniel Filmus",
+        "lang:en": "Daniel Filmus"
+      },
+      "id": "Q5217139",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5217139"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Delia Pinchetti de Sierra Morales",
+        "lang:en": "Delia Pinchetti de Sierra Morales"
+      },
+      "id": "Q5253884",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5253884"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Diego Santilli",
+        "lang:en": "Diego Santilli"
+      },
+      "id": "Q5274808",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5274808"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Dora Sánchez",
+        "lang:en": "Dora Sánchez"
+      },
+      "id": "Q5297445",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5297445"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Eduardo Torres"
+      },
+      "id": "Q5340784",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5340784"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Hilda González",
+        "lang:en": "Hilda de Duhalde"
+      },
+      "id": "Q535094",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q535094"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Elena Corregido",
+        "lang:en": "Elena Corregido"
+      },
+      "id": "Q5358985",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5358985"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Emilio Rached",
+        "lang:en": "Emilio Rached"
+      },
+      "id": "Q5371931",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5371931"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Enzo Bordabehere",
+        "lang:en": "Enzo Bordabehere"
+      },
+      "id": "Q5381490",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5381490"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Esteban Bullrich",
+        "lang:en": "Esteban Bullrich"
+      },
+      "id": "Q5400763",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5400763"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/EstebanBullrich"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan del Campillo",
+        "lang:en": "Juan del Campillo"
+      },
+      "id": "Q5576683",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5576683"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Haide Giri",
+        "lang:en": "Haide Giri"
+      },
+      "id": "Q5639008",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5639008"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Manuel Cano",
+        "lang:en": "José Manuel Cano"
+      },
+      "id": "Q5640784",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5640784"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Manuel Güiraldes",
+        "lang:en": "Manuel Güiraldes"
+      },
+      "id": "Q5648561",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5648561"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Blanca Monllau",
+        "lang:en": "Blanca Monllau"
+      },
+      "id": "Q5729804",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5729804"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Eduardo Raúl Costa",
+        "lang:en": "Eduardo Raúl Costa"
+      },
+      "id": "Q5819618",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5819618"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Federico Pinedo",
+        "lang:en": "Federico Pinedo"
+      },
+      "id": "Q5857789",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5857789"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/federicopinedo"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ángel Rozas",
+        "lang:en": "Ángel Rozas"
+      },
+      "id": "Q591796",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q591796"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José A. Terry",
+        "lang:en": "José A. Terry"
+      },
+      "id": "Q5937277",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5937277"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Agustín Pérez Alsina",
+        "lang:en": "Juan Agustín Pérez Alsina"
+      },
+      "id": "Q5947018",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5947018"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Carlos Marino",
+        "lang:en": "Juan Carlos Marino"
+      },
+      "id": "Q5948411",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5948411"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Julio César Catalán Magni",
+        "lang:en": "Julio César Catalán Magni"
+      },
+      "id": "Q5955126",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5955126"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Manuel J. Campos",
+        "lang:en": "Manuel J. Campos"
+      },
+      "id": "Q5993326",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5993326"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Marcelo Fuentes",
+        "lang:en": "Marcelo Fuentes"
+      },
+      "id": "Q5995804",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5995804"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Marcelo Guinle",
+        "lang:en": "Marcelo Guinle"
+      },
+      "id": "Q5995818",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5995818"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ernesto Sanz",
+        "lang:en": "Ernesto Sanz"
+      },
+      "id": "Q599714",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q599714"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María Inés Pilatti Vergara",
+        "lang:en": "María Inés Pilatti Vergara"
+      },
+      "id": "Q6003917",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6003917"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María Rosa Díaz",
+        "lang:en": "María Rosa Díaz"
+      },
+      "id": "Q6004526",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6004526"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Olga Inés Brizuela y Doria",
+        "lang:en": "Olga Inés Brizuela y Doria"
+      },
+      "id": "Q6049818",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6049818"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro Braillard Poccard",
+        "lang:en": "Pedro Braillard Poccard"
+      },
+      "id": "Q6068353",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6068353"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro Groppo",
+        "lang:en": "Pedro Groppo"
+      },
+      "id": "Q6069015",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6069015"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro Guillermo Ángel Guastavino",
+        "lang:en": "Pedro Guillermo Ángel Guastavino"
+      },
+      "id": "Q6069019",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6069019"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro José Frías",
+        "lang:en": "Pedro José Frías"
+      },
+      "id": "Q6069209",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6069209"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María Eugenia Estenssoro",
+        "lang:en": "María Eugenia Estenssoro"
+      },
+      "id": "Q609151",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q609151"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ramón Gil Navarro",
+        "lang:en": "Ramón Gil Navarro"
+      },
+      "id": "Q6099671",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6099671"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rodolfo Acuña",
+        "lang:en": "Rodolfo Acuña"
+      },
+      "id": "Q6110447",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6110447"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rufino Varela",
+        "lang:en": "Rufino Varela"
+      },
+      "id": "Q6113531",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6113531"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ruperto Eduardo Godoy",
+        "lang:en": "Ruperto Eduardo Godoy"
+      },
+      "id": "Q6113696",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6113696"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Miguel Ángel Mayans",
+        "lang:en": "José Mayans"
+      },
+      "id": "Q6293394",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6293394"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Pampuro",
+        "lang:en": "José Pampuro"
+      },
+      "id": "Q6293658",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6293658"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Carlos Romero",
+        "lang:en": "Juan Carlos Romero"
+      },
+      "id": "Q6299395",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6299395"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/RomeroxSalta"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Juan Pérez Alsina"
+      },
+      "id": "Q6300814",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6300814"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Liliana Fellner",
+        "lang:en": "Liliana Fellner"
+      },
+      "id": "Q6547740",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6547740"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Luis Petcoff Naidenoff",
+        "lang:en": "Luis Petcoff Naidenoff"
+      },
+      "id": "Q6700989",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6700989"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Luis Alberto Viana",
+        "lang:en": "Luis Viana"
+      },
+      "id": "Q6701193",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6701193"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María Colombo de Acevedo",
+        "lang:en": "María Colombo de Acevedo"
+      },
+      "id": "Q6781944",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6781944"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María Laura Leguizamón",
+        "lang:en": "María Laura Leguizamón"
+      },
+      "id": "Q6782046",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6782046"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mirian Curletti",
+        "lang:en": "Mirian Curletti"
+      },
+      "id": "Q6873465",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6873465"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Norberto Massoni",
+        "lang:en": "Norberto Massoni"
+      },
+      "id": "Q7050408",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7050408"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Norma Elena Morandini",
+        "lang:en": "Norma Morandini"
+      },
+      "id": "Q7051703",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7051703"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Oscar Castillo",
+        "lang:en": "Oscar Castillo"
+      },
+      "id": "Q7105913",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7105913"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pablo Verani",
+        "lang:en": "Pablo Verani"
+      },
+      "id": "Q7121785",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7121785"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Patrick Joseph Dillon",
+        "lang:en": "Patrick Joseph Dillon"
+      },
+      "id": "Q7146870",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7146870"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ricardo Gómez Diez",
+        "lang:en": "Ricardo Gómez Diez"
+      },
+      "id": "Q7322664",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7322664"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Roberto Basualdo",
+        "lang:en": "Roberto Basualdo"
+      },
+      "id": "Q7351592",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7351592"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Roberto Urquía",
+        "lang:en": "Roberto Urquía"
+      },
+      "id": "Q7351931",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7351931"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rodolfo Terragno",
+        "lang:en": "Rodolfo Terragno"
+      },
+      "id": "Q7357213",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7357213"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Roy Nikisch",
+        "lang:en": "Roy Nikisch"
+      },
+      "id": "Q7373214",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7373214"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rubén Rabanal",
+        "lang:en": "Rubén Rabanal"
+      },
+      "id": "Q7376526",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7376526"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Samuel Cabanchik",
+        "lang:en": "Samuel Cabanchik"
+      },
+      "id": "Q7411049",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7411049"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Silvia Gallego",
+        "lang:en": "Silvia Gallego"
+      },
+      "id": "Q7516987",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7516987"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Silvia Giusti",
+        "lang:en": "Silvia Giusti"
+      },
+      "id": "Q7516990",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7516990"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Teresita Quintela",
+        "lang:en": "Teresita Quintela"
+      },
+      "id": "Q7702296",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7702296"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Vilma Ibarra",
+        "lang:en": "Vilma Ibarra"
+      },
+      "id": "Q7931145",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7931145"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Élida Vigo",
+        "lang:en": "Élida Vigo"
+      },
+      "id": "Q8078208",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8078208"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alfredo de Angeli",
+        "lang:en": "Alfredo de Angeli"
+      },
+      "id": "Q8195420",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8195420"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco Bernabé Madero",
+        "lang:en": "Francisco Bernabé Madero"
+      },
+      "id": "Q8962306",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8962306"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Luz María Sapag",
+        "lang:en": "Luz Sapag"
+      },
+      "id": "Q9025653",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9025653"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Melitón Camaño",
+        "lang:en": "Melitón Camaño"
+      },
+      "id": "Q9031365",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9031365"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Roxana Latorre",
+        "lang:en": "Roxana Latorre"
+      },
+      "id": "Q9070941",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9070941"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Silvina García Larraburu",
+        "lang:en": "Silvina García Larraburu"
+      },
+      "id": "Q9077444",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9077444"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Senado de la Nación Argentina",
+        "lang:en": "Argentine Senate"
+      },
+      "id": "Q2118303",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2118303"
+        }
+      ],
+      "area_id": "Q414",
+      "seat_counts": {
+        "Q18711738": "72"
+      }
+    },
+    {
+      "name": {
+        "lang:es": "Partido Justicialista",
+        "lang:en": "Justicialist Party"
+      },
+      "id": "Q1053668",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1053668"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente para la Victoria",
+        "lang:en": "Front for Victory (Argentina)"
+      },
+      "id": "Q1072438",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1072438"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Propuesta Republicana",
+        "lang:en": "Republican Proposal"
+      },
+      "id": "Q1507720",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1507720"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "UNEN",
+        "lang:en": "Broad Front UNEN"
+      },
+      "id": "Q15984938",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15984938"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Cambiemos",
+        "lang:en": "Cambiemos"
+      },
+      "id": "Q20749344",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20749344"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Chubut Somos Todos"
+      },
+      "id": "Q26258776",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26258776"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Unidad Ciudadana",
+        "lang:en": "Citizen's Unity Party"
+      },
+      "id": "Q30841057",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30841057"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente Cívico por Santiago",
+        "lang:en": "Civic Front for Santiago"
+      },
+      "id": "Q3088428",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3088428"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente Popular Salteño",
+        "lang:en": "Frente Popular Salteño"
+      },
+      "id": "Q41530193",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41530193"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Unión por Chaco",
+        "lang:en": "Unión por Chaco"
+      },
+      "id": "Q41557246",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41557246"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alianza Frente Progresista"
+      },
+      "id": "Q41557258",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41557258"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alianza Unión por Entre Ríos"
+      },
+      "id": "Q41628756",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41628756"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alianza Unión por Córdoba"
+      },
+      "id": "Q41629046",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41629046"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente Popular",
+        "lang:en": "Frente Popular"
+      },
+      "id": "Q41653620",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41653620"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alianza Encuentro Corrientes",
+        "lang:en": "Alianza Encuentro Corrientes"
+      },
+      "id": "Q41654015",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q41654015"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente Todos"
+      },
+      "id": "Q47108887",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47108887"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente Justicalista"
+      },
+      "id": "Q47109065",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47109065"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Cambiemos-Fuerza Civica Riojana"
+      },
+      "id": "Q47109114",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47109114"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente Unidad Justicalista San Luis"
+      },
+      "id": "Q47109387",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47109387"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente Amplio Formoseño Cambiemos"
+      },
+      "id": "Q47109411",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47109411"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Unión Para Vivir Mejor - Cambiemos"
+      },
+      "id": "Q47109540",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47109540"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente Justicalista Riojano"
+      },
+      "id": "Q47439490",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47439490"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alianza Frente Cívico"
+      },
+      "id": "Q47440013",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47440013"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente Renovador de la Concordia Social",
+        "lang:en": "Front for the Renewal of Concord"
+      },
+      "id": "Q5505872",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5505872"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Movimiento Popular Fueguino",
+        "lang:en": "Fueguino People's Movement"
+      },
+      "id": "Q5507109",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5507109"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Movimiento Popular Neuquino",
+        "lang:en": "Neuquén People's Movement"
+      },
+      "id": "Q7002024",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7002024"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente Progresista, Cívico y Social",
+        "lang:en": "Progressive, Civic and Social Front"
+      },
+      "id": "Q7248613",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7248613"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1042890-2fe54831-48c5-b622-41bd-5c6e30b46403",
+      "person_id": "Q1042890",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44758",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11682645-F02BEC65-9BB9-464A-BD70-D57D042E9B71",
+      "person_id": "Q11682645",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44798",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q11691402-387CF601-015C-49C6-9A0E-1C3A9A55F42A",
+      "person_id": "Q11691402",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15225900-7F9EFB81-CFF6-477E-9D63-F616E850291D",
+      "person_id": "Q15225900",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1566440-fca5e589-45c5-e9f8-71f9-4f5c60e3c95f",
+      "person_id": "Q1566440",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16186930-7e0b663f-44bb-e233-38c0-20bb41f7eb23",
+      "person_id": "Q16186930",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16297791-8cddc623-4d4b-8241-972b-7c52f6bf2506",
+      "person_id": "Q16297791",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16300730-405798d4-4bdc-23c5-f1d3-a87e8e5e96b7",
+      "person_id": "Q16300730",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16301366-214F444F-4647-4F16-B3CA-0B3BA0E8ECFC",
+      "person_id": "Q16301366",
+      "on_behalf_of_id": "Q41557258",
+      "organization_id": "Q2118303",
+      "area_id": "Q44802",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16301366-90E26185-4554-40AA-8708-850E0508EBD4",
+      "person_id": "Q16301366",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16301802-4f29546e-4710-abf4-b9f1-fadc25af5036",
+      "person_id": "Q16301802",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16302727-3290723B-AE42-45A4-BF12-9A5C2955210C",
+      "person_id": "Q16302727",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44803",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16589675-173DCAD5-BA5B-4ED5-AC7C-1E3B6D3BBEC8",
+      "person_id": "Q16589675",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16731634-37cfc1f5-4806-97f8-80c4-50a3e6aaa2e5",
+      "person_id": "Q16731634",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16736695-6CB0D524-1D76-4CE0-8CC3-8664542940B5",
+      "person_id": "Q16736695",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q173238-A1BA2CB0-8FA8-4259-9758-5E2BDE1ED926",
+      "person_id": "Q173238",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44823",
+      "start_date": "2015-12-10",
+      "end_date": "2021-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17996387-653819B9-0FCE-4A62-BBF7-568B25E97AB7",
+      "person_id": "Q17996387",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q185107-b82ac958-4a9b-231b-25b2-19670688782a",
+      "person_id": "Q185107",
+      "on_behalf_of_id": "Q47439490",
+      "organization_id": "Q2118303",
+      "area_id": "Q44796",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711842-14DF9D67-4EE9-49C3-A2B9-AB75482D3FA0",
+      "person_id": "Q18711842",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711845-FABBCBF0-7896-4810-937D-59410559FE50",
+      "person_id": "Q18711845",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711852-E45D4483-08CC-422B-A1E7-50A2C23EF7B5",
+      "person_id": "Q18711852",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44757",
+      "start_date": "2013-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711869-B9789A45-217F-4513-B605-A4D1400DED20",
+      "person_id": "Q18711869",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711870-14B06C29-3EE6-4A69-A98A-7A29C5D507D3",
+      "person_id": "Q18711870",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711889-DA17AA65-6CB0-4FE4-A192-84BCA69E97B1",
+      "person_id": "Q18711889",
+      "on_behalf_of_id": "Q7002024",
+      "organization_id": "Q2118303",
+      "area_id": "Q44800",
+      "start_date": "2013-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711897-5A33FA60-8FFA-4D6E-AE6C-1433D5921C0B",
+      "person_id": "Q18711897",
+      "on_behalf_of_id": "Q41653620",
+      "organization_id": "Q2118303",
+      "area_id": "Q44827",
+      "start_date": "2013-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711901-7ED53CA8-3C8C-4243-A618-70E26DBD7983",
+      "person_id": "Q18711901",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711909-50A2E805-D26B-4EE8-A276-693DE35DD113",
+      "person_id": "Q18711909",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44829",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711914-4EFBA9AE-E5D0-456E-9FED-8886081A087D",
+      "person_id": "Q18711914",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44756",
+      "start_date": "2011-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711917-E55EAD94-A091-458E-B41D-2DD55A8E1937",
+      "person_id": "Q18711917",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44803",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711918-4CAAB6B8-C119-40DE-A2D3-B85310005C29",
+      "person_id": "Q18711918",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44762",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711918-615405B8-D92D-4CA8-AAAC-71E7C8402D99",
+      "person_id": "Q18711918",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711919-C287E462-28AF-4E47-B1FF-2382F68401C9",
+      "person_id": "Q18711919",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711927-8D42D79A-43FD-478A-9D9F-D05CF32A2784",
+      "person_id": "Q18711927",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711928-90D1AB54-7CCA-4588-B1C2-20D4B9F0166A",
+      "person_id": "Q18711928",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18711932-45E75967-AF70-47DE-AAE0-631746E302A5",
+      "person_id": "Q18711932",
+      "on_behalf_of_id": "Q7002024",
+      "organization_id": "Q2118303",
+      "area_id": "Q44800",
+      "start_date": "2013-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18715420-253d794f-47a4-5409-f6c4-6c72cdae9187",
+      "person_id": "Q18715420",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18715553-AF535923-F793-4E45-AB05-D4DD24B01DEB",
+      "person_id": "Q18715553",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18729145-971AB3FC-C0F6-42F8-BD31-6F3A98F3F7D4",
+      "person_id": "Q18729145",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18755636-465D01C5-040D-4BAD-80A5-05AA85902CE0",
+      "person_id": "Q18755636",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18756543-DF5A7197-B875-46F9-A203-FFF580731A81",
+      "person_id": "Q18756543",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18756552-0FAB748A-8A5C-4DD1-8256-0163B181211D",
+      "person_id": "Q18756552",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18757291-C4337408-3156-42EB-9A70-8CC5D1CE3DBC",
+      "person_id": "Q18757291",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18759139-CD2E4BA0-494E-4D83-9363-36407543FF4F",
+      "person_id": "Q18759139",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18810449-E0E880B8-AA97-408C-B1E0-A5DEEA3230BA",
+      "person_id": "Q18810449",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18822404-7227B66D-60DE-46B9-B405-8FFB0CEDFD89",
+      "person_id": "Q18822404",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18888590-E363CC0F-75AB-46D4-9246-9B2474CADA34",
+      "person_id": "Q18888590",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18888725-60F49B62-B8CE-422C-93C3-18D79BF0D1D5",
+      "person_id": "Q18888725",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18937432-A22B8585-C952-4B79-8672-604BE8A5EF23",
+      "person_id": "Q18937432",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18947007-AE755013-BC6C-4A2A-BAC2-0CD32AECC831",
+      "person_id": "Q18947007",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19016042-3EC57CF8-A5F0-46AC-9656-7144CC7587B4",
+      "person_id": "Q19016042",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19118402-1CC589A5-B990-4A1F-83F1-34000E4AF389",
+      "person_id": "Q19118402",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19204477-CF9E0EED-951B-4DFF-B252-E28803CA1130",
+      "person_id": "Q19204477",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19255415-819D53B5-9459-4120-AA60-1F35EF1E4BAF",
+      "person_id": "Q19255415",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19255497-B8AF6981-AD91-4452-92E3-0E2224FD5A83",
+      "person_id": "Q19255497",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19259990-811114ED-55EC-4B76-A388-CD156708ECB7",
+      "person_id": "Q19259990",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19261456-EED6891F-9289-4866-B9AA-17E468EDAE4F",
+      "person_id": "Q19261456",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19261478-1974024A-B4B2-46B4-B8C3-24766AE498D6",
+      "person_id": "Q19261478",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19261510-98A55CE5-5C97-4852-8E6A-E9A6EFD39BFD",
+      "person_id": "Q19261510",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19261555-396625B6-5261-4D42-A7BF-68AF28DDAF2E",
+      "person_id": "Q19261555",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19261658-5A33CAD0-A0DE-48B2-930E-E98B09834ADF",
+      "person_id": "Q19261658",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19261700-17A64979-B42A-4761-86A1-669589327D97",
+      "person_id": "Q19261700",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19261710-BB562686-7EFA-4450-8FD4-192C176862EA",
+      "person_id": "Q19261710",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19264056-B9C02D04-AFB1-4D2D-AC47-125470DA06CD",
+      "person_id": "Q19264056",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19264161-0EB33ED3-49A7-4491-BA36-7C8784E9CDAA",
+      "person_id": "Q19264161",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1932735-F0F87027-741D-4334-9374-8B6B5FB244CA",
+      "person_id": "Q1932735",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1932735-FC4C0630-5B83-4EAE-A4CF-6445A429B449",
+      "person_id": "Q1932735",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44802",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19841457-5875CF5B-1212-460A-8CD3-7B87F54CD338",
+      "person_id": "Q19841457",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20015265-47D55D4E-5316-443E-81E2-42931471AB5D",
+      "person_id": "Q20015265",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44754",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20015616-619DC115-597A-4B47-AC14-2C59F2665DBC",
+      "person_id": "Q20015616",
+      "on_behalf_of_id": "Q1053668",
+      "organization_id": "Q2118303",
+      "area_id": "Q44823",
+      "start_date": "2015-12-10",
+      "end_date": "2021-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21014374-30F91EA4-04DF-4EB4-A2A6-5248346CB678",
+      "person_id": "Q21014374",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21856278-CA702BB7-757B-4061-BEB4-A7DB22BD16EA",
+      "person_id": "Q21856278",
+      "on_behalf_of_id": "Q47109065",
+      "organization_id": "Q2118303",
+      "area_id": "Q44764",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23807442-D2143ADE-F15E-4B15-84FE-CDBC093C5674",
+      "person_id": "Q23807442",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44759",
+      "start_date": "2015-12-10",
+      "end_date": "2021-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27308136-008e5de0-4f3f-23b0-1082-24b5d10bed2d",
+      "person_id": "Q27308136",
+      "on_behalf_of_id": "Q1507720",
+      "organization_id": "Q2118303",
+      "area_id": "Q1486",
+      "start_date": "2016-02-11",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27309047-e777c29a-4d14-d933-8569-81d2301189df",
+      "person_id": "Q27309047",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44823",
+      "start_date": "2015-12-10",
+      "end_date": "2021-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27640049-3A151467-61E2-441F-B203-BEF1D3A3F8EC",
+      "person_id": "Q27640049",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44759",
+      "start_date": "2015-12-10",
+      "end_date": "2021-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3048310-334C94D3-61FB-4F3C-AA9B-EE2867BB330E",
+      "person_id": "Q3048310",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q312358-0C4A648B-3209-428A-AAD3-796FD88FE6BB",
+      "person_id": "Q312358",
+      "on_behalf_of_id": "Q47109387",
+      "organization_id": "Q2118303",
+      "area_id": "Q44818",
+      "start_date": "2017-12-20",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3186387-4DEC579D-1E9F-4F25-B57C-EBC11C024266",
+      "person_id": "Q3186387",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q40649-5CE30957-86EC-44E5-B6FB-F2FA742CE990",
+      "person_id": "Q40649",
+      "on_behalf_of_id": "Q30841057",
+      "organization_id": "Q2118303",
+      "area_id": "Q44754",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4122225-3690AC40-5278-4930-B8B4-B4BC1199B88E",
+      "person_id": "Q4122225",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44829",
+      "start_date": "2015-12-10",
+      "end_date": "2021-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41587390-1157F39E-999D-4DA7-9AAE-88ED7A25BE6A",
+      "person_id": "Q41587390",
+      "on_behalf_of_id": "Q41629046",
+      "organization_id": "Q2118303",
+      "area_id": "Q44759",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41587454-B93ED767-CC48-4891-BDF7-2EB6F2021FA5",
+      "person_id": "Q41587454",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44764",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658526-755680EC-E4E0-4E8C-AFCC-58AC7E2128D4",
+      "person_id": "Q41658526",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44758",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658530-EDB225A3-2E62-4000-A547-3354D561D624",
+      "person_id": "Q41658530",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44797",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658534-E0185BB3-62AE-4E9B-A59C-BB09CB0C55EA",
+      "person_id": "Q41658534",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44829",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658537-BEBC2523-E568-410F-A24B-DC2B3D099BF9",
+      "person_id": "Q41658537",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44756",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658542-D9F01C87-AA3E-4651-938D-1F466D3B7F8D",
+      "person_id": "Q41658542",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44795",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658546-281ED7F3-CAF1-401F-94AA-58A56FA6AA7C",
+      "person_id": "Q41658546",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44832",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658550-F94AD828-48ED-4E15-BFD8-2E0C006368EA",
+      "person_id": "Q41658550",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q45007",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658558-953E0024-C793-4A98-8ADA-9E9F52807EE0",
+      "person_id": "Q41658558",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44761",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658560-B7B2CE90-236F-4166-A116-CBC20848EEE3",
+      "person_id": "Q41658560",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q45007",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658565-EE703C66-C055-428A-9B79-AA27FF8495BC",
+      "person_id": "Q41658565",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44795",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658575-DE70FB6E-62EE-4DDB-8C65-141202A34A5A",
+      "person_id": "Q41658575",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44764",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658580-D7920784-7497-44C2-9E89-C7F62E448156",
+      "person_id": "Q41658580",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44797",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658584-B3AB17DF-2417-44F0-B4D7-16F8AC104285",
+      "person_id": "Q41658584",
+      "on_behalf_of_id": "Q26258776",
+      "organization_id": "Q2118303",
+      "area_id": "Q45007",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q41658592-F4778B70-3CA2-44DB-87D4-F6F0AC8101CF",
+      "person_id": "Q41658592",
+      "on_behalf_of_id": "Q5507109",
+      "organization_id": "Q2118303",
+      "area_id": "Q44832",
+      "start_date": "2013-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q453619-DB33EDEB-5FBF-4E1C-8E85-48794EC390BE",
+      "person_id": "Q453619",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q455709-3A993937-624B-4D60-BD56-DAAD7640ED60",
+      "person_id": "Q455709",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q456351-0116D1B7-9CE0-43CC-9F37-E267F3875E93",
+      "person_id": "Q456351",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44797",
+      "start_date": "2015-12-10",
+      "end_date": "2021-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q464916-27E922D8-0BC7-4265-8C74-DF099EE1F362",
+      "person_id": "Q464916",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4678262-AAB5DDC8-CEA8-4E5F-AF60-C9D8A665ABFE",
+      "person_id": "Q4678262",
+      "on_behalf_of_id": "Q3088428",
+      "organization_id": "Q2118303",
+      "area_id": "Q44827",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4678262-aef6b9aa-43fa-60ad-6d68-f2bafd875e55",
+      "person_id": "Q4678262",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47108965-5A947489-B5DF-486A-92C5-9E741611826F",
+      "person_id": "Q47108965",
+      "on_behalf_of_id": "Q47108887",
+      "organization_id": "Q2118303",
+      "area_id": "Q44805",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47167622-7A7AE9BC-90C6-4820-BC14-95FE40B0E6C7",
+      "person_id": "Q47167622",
+      "on_behalf_of_id": "Q47108887",
+      "organization_id": "Q2118303",
+      "area_id": "Q44805",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47199903-42827044-A8BE-4F7A-8727-C1310418563B",
+      "person_id": "Q47199903",
+      "on_behalf_of_id": "Q47109387",
+      "organization_id": "Q2118303",
+      "area_id": "Q44818",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47199960-C6FD1056-D86F-4D71-8F8D-24AB8FCB0C3A",
+      "person_id": "Q47199960",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44821",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47200046-5C5FE54F-D5FB-48A2-ADC3-DD3115E9CD9D",
+      "person_id": "Q47200046",
+      "on_behalf_of_id": "Q47109540",
+      "organization_id": "Q2118303",
+      "area_id": "Q44821",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47201914-066fef47-468d-081c-0604-7e0930b0b4d5",
+      "person_id": "Q47201914",
+      "on_behalf_of_id": "Q5505872",
+      "organization_id": "Q2118303",
+      "area_id": "Q44798",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4723820-CB0C4BF9-4121-44F1-A554-B6C25A628269",
+      "person_id": "Q4723820",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4726283-3ad45f8c-4665-ddab-1da1-fe2aba32f368",
+      "person_id": "Q4726283",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47439677-4e2b629a-45be-c569-d619-2ef9e30722f1",
+      "person_id": "Q47439677",
+      "on_behalf_of_id": "Q47440013",
+      "organization_id": "Q2118303",
+      "area_id": "Q44827",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4750337-D5FFF4FF-B3F6-4CF9-9D9E-BE81BB533836",
+      "person_id": "Q4750337",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4776451-A05E64F9-A785-4342-93A0-5C09C42EEB1D",
+      "person_id": "Q4776451",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4801813-ADF50318-473F-4086-9405-C3D0F4DF475D",
+      "person_id": "Q4801813",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4837917-FEF89451-A45E-4184-AE22-2589D4315A33",
+      "person_id": "Q4837917",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4838458-26B18B7B-ECA0-4B9A-8B97-79E4AEE4D28A",
+      "person_id": "Q4838458",
+      "on_behalf_of_id": "Q5505872",
+      "organization_id": "Q2118303",
+      "area_id": "Q44798",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4838522-03E3EBEA-FFB6-48AC-87C8-63DBD28C6E74",
+      "person_id": "Q4838522",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44818",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4877270-AC4E54DA-451E-4DDD-9927-8D21918E41D7",
+      "person_id": "Q4877270",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5042591-06302109-D095-4BAD-8565-06C9CFC259F9",
+      "person_id": "Q5042591",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5042606-0648CD84-AAF0-4DDD-93F2-17E3BA1B5168",
+      "person_id": "Q5042606",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q508497-017BEBC7-6C6F-47B6-80EA-7F3EF7BD133C",
+      "person_id": "Q508497",
+      "on_behalf_of_id": "Q15984938",
+      "organization_id": "Q2118303",
+      "area_id": "Q1486",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5202553-7b97f1b9-4088-e334-8516-c6aff66afb8f",
+      "person_id": "Q5202553",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5217139-EF97126B-9032-49E5-BB6B-6229EBF8E5CE",
+      "person_id": "Q5217139",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5253884-3f16301c-4103-55bd-ec21-b768983e14a1",
+      "person_id": "Q5253884",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5274808-642bf6f4-46cd-db8c-bb51-73e601cff158",
+      "person_id": "Q5274808",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5297445-93123434-3705-49EB-A818-CCB9ED97F988",
+      "person_id": "Q5297445",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5340784-877E406B-C1DB-46EF-A22B-57DF1FC77A29",
+      "person_id": "Q5340784",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q535094-7B7AA500-8730-42EE-90B4-62DF3414F8C9",
+      "person_id": "Q535094",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5358985-a71529ef-45b2-d7b6-4f5f-a824c7c58386",
+      "person_id": "Q5358985",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5371931-FEE6924F-C537-4395-B536-7FCEBC09583F",
+      "person_id": "Q5371931",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5381490-51C12C44-9B59-453E-A878-13190874CE51",
+      "person_id": "Q5381490",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5400763-4B5F995F-1A57-465B-9FD7-8C66480C99EF",
+      "person_id": "Q5400763",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44754",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5576683-27D48C6D-20EF-4EEC-B373-F878FDEA3C73",
+      "person_id": "Q5576683",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5639008-AE4821ED-C53C-4AE4-B8F4-BB88FDB8DFC0",
+      "person_id": "Q5639008",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5640784-3D951900-6334-4503-AD6E-5ACDE4F7D631",
+      "person_id": "Q5640784",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5648561-6C885174-BDDF-41BF-9A1D-247623C4C559",
+      "person_id": "Q5648561",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5729804-BA125620-64D8-4388-BDF9-065A6D782CFB",
+      "person_id": "Q5729804",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5819618-1F0F5162-B620-4522-B16D-C10E67F4F389",
+      "person_id": "Q5819618",
+      "on_behalf_of_id": "Q47109540",
+      "organization_id": "Q2118303",
+      "area_id": "Q44821",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5857789-cebe1c35-4cfd-3248-39c2-ed0cc7e0c14f",
+      "person_id": "Q5857789",
+      "on_behalf_of_id": "Q1507720",
+      "organization_id": "Q2118303",
+      "area_id": "Q1486",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q591796-CC28CB8A-6EDD-4A01-8D41-6D89FB6B5523",
+      "person_id": "Q591796",
+      "on_behalf_of_id": "Q41557246",
+      "organization_id": "Q2118303",
+      "area_id": "Q44757",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5937277-FEF4417A-3C7A-42CB-AC65-EEDEEA7E3955",
+      "person_id": "Q5937277",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5947018-D0BA31F1-FEBD-4ED3-8B76-F71BC5AC84E7",
+      "person_id": "Q5947018",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5948411-497775CF-3EE4-4C34-BA82-FD9618F7DDE8",
+      "person_id": "Q5948411",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44795",
+      "start_date": "2015-12-10",
+      "end_date": "2021-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5948411-9F382D38-D7F3-4193-BB83-75AC7AE09D88",
+      "person_id": "Q5948411",
+      "organization_id": "Q2118303",
+      "area_id": "Q44795",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5955126-7CAC924B-0662-4734-AB68-CFCB0AB5911F",
+      "person_id": "Q5955126",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44832",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5955126-b9825479-471d-fb00-44ea-ce17435ef053",
+      "person_id": "Q5955126",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5993326-E1D020EB-F381-4860-B592-73902E5D5F0B",
+      "person_id": "Q5993326",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5995804-60137AC9-69AD-4B30-840F-096D11091A13",
+      "person_id": "Q5995804",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44800",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5995818-4DDC6BBB-4CF9-4E75-9E43-2CFEB40D921E",
+      "person_id": "Q5995818",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q599714-61A5440F-978E-44B6-9197-383C5AAED8CB",
+      "person_id": "Q599714",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6003917-1B093657-1915-4CAB-9CA1-EB955CB6A771",
+      "person_id": "Q6003917",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44757",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6003917-85e438ff-440d-b53d-d0b0-93e645ded4ec",
+      "person_id": "Q6003917",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6004526-27A5F03F-E4ED-478C-AE6B-6ADD25B1734C",
+      "person_id": "Q6004526",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6049818-9EDFBE8F-BD98-4D63-87E5-37E28662F577",
+      "person_id": "Q6049818",
+      "on_behalf_of_id": "Q47109114",
+      "organization_id": "Q2118303",
+      "area_id": "Q44796",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6068353-6E951952-0835-4F90-AC17-EC3B2CA8BF87",
+      "person_id": "Q6068353",
+      "on_behalf_of_id": "Q41654015",
+      "organization_id": "Q2118303",
+      "area_id": "Q44758",
+      "start_date": "2015-12-10",
+      "end_date": "2021-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6069015-27E33906-6DB7-4E1F-AF88-14C9E5AC82AC",
+      "person_id": "Q6069015",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6069019-00E80040-31AF-4472-BA7B-3DFF9CD6A029",
+      "person_id": "Q6069019",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6069019-E163A4A2-F06A-4668-97B9-7F6FE70C11B4",
+      "person_id": "Q6069019",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44762",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6069209-B389166C-2C53-4EB2-B1CA-E2E6F966FDCC",
+      "person_id": "Q6069209",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q609151-64D41D20-87D8-4B0E-9B4E-176E749379EF",
+      "person_id": "Q609151",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6099671-8306D3D0-1B35-4846-960F-361D7F5EDD1B",
+      "person_id": "Q6099671",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6110447-3DDAB943-4E60-47AE-8267-C3D9E6A065F1",
+      "person_id": "Q6110447",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6113531-DB702D46-E114-4AF3-A6E2-0E0AB0D58B3F",
+      "person_id": "Q6113531",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6113696-5B2976AC-1EBF-4C3B-89C2-B423FF7DD03F",
+      "person_id": "Q6113696",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6293394-B1BC4F5D-5312-4FE8-AEF8-7DFE51EC22B8",
+      "person_id": "Q6293394",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44761",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6293658-A1C586CB-0DF6-47B7-A72E-1546D877C60E",
+      "person_id": "Q6293658",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6299395-15843dc9-4087-9548-87b1-c0f854fe9606",
+      "person_id": "Q6299395",
+      "on_behalf_of_id": "Q41530193",
+      "organization_id": "Q2118303",
+      "area_id": "Q44803",
+      "start_date": "2007-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6300814-B691707D-751A-4CA5-A104-A666CEBE5200",
+      "person_id": "Q6300814",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6547740-684D8089-12A1-4D03-9905-4B97C71257E8",
+      "person_id": "Q6547740",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6700989-1D5BAC77-1E96-4737-BCE4-24BC8E76B67E",
+      "person_id": "Q6700989",
+      "on_behalf_of_id": "Q47109411",
+      "organization_id": "Q2118303",
+      "area_id": "Q44761",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6700989-AB177E2C-4592-4FC7-A0A1-8A1FB8A536A9",
+      "person_id": "Q6700989",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6701193-c42ad962-46a1-01f8-c5bf-329c9d6f0d9e",
+      "person_id": "Q6701193",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6781944-283a8675-4708-9e89-304a-fe3e94f46357",
+      "person_id": "Q6781944",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6782046-26B89D0B-CAE6-4163-B617-7F68047BF0E8",
+      "person_id": "Q6782046",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6873465-A795F3B2-0641-47E6-A9D4-155EB17BFC2E",
+      "person_id": "Q6873465",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7050408-9b079e6e-451e-5a22-1d25-bcb2c8805ae9",
+      "person_id": "Q7050408",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7051703-8FA25760-524F-4DD5-BD1A-1827D53DF26B",
+      "person_id": "Q7051703",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7105913-4E737AD8-9032-4D34-AA4B-05FF1733C569",
+      "person_id": "Q7105913",
+      "on_behalf_of_id": "Q7248613",
+      "organization_id": "Q2118303",
+      "area_id": "Q44756",
+      "start_date": "2015-12-10",
+      "end_date": "2021-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7105913-D199CF1B-33C2-4D0A-8BEB-BBFFFBC7F1EC",
+      "person_id": "Q7105913",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7121785-395206CB-B619-4EBC-BDF4-501B27DF17F0",
+      "person_id": "Q7121785",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7146870-D5CB2E06-C5B0-417E-A15A-060F1D5B62DC",
+      "person_id": "Q7146870",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7322664-577034d7-4bed-4693-b7e9-61f68b7da0ad",
+      "person_id": "Q7322664",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7351592-56789966-4556-4CF8-8035-017E29388ABF",
+      "person_id": "Q7351592",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q2118303",
+      "area_id": "Q44805",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7351931-a17aefe6-4254-c380-0b3f-44db7b32ae6d",
+      "person_id": "Q7351931",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7357213-DDB82AFD-6D16-47E7-93AD-48E33851F5EA",
+      "person_id": "Q7357213",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7373214-be4f0a6f-4f21-59a7-8cc9-30287e691236",
+      "person_id": "Q7373214",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7376526-63968FFD-EF21-485B-9F58-E354D6A35728",
+      "person_id": "Q7376526",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7411049-43C0A4A0-0E9B-45EE-82F6-EBD214E427B7",
+      "person_id": "Q7411049",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7516987-37179A76-C2ED-4A23-9BCD-EC674B6E62D8",
+      "person_id": "Q7516987",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7516990-d325482a-438c-5748-1a1d-085333bb792d",
+      "person_id": "Q7516990",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7702296-CA90B3E0-3570-4366-9545-A9297DD1A905",
+      "person_id": "Q7702296",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7931145-BDB00C98-B4D9-4809-B714-7931A1F0D0F2",
+      "person_id": "Q7931145",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8078208-7DD86F65-4EAB-4B93-A18E-99B3F10C5149",
+      "person_id": "Q8078208",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8195420-8C8FF5AE-D504-46BE-8845-3ACC8CBD6864",
+      "person_id": "Q8195420",
+      "on_behalf_of_id": "Q41628756",
+      "organization_id": "Q2118303",
+      "area_id": "Q44762",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8195420-ee02a580-4f80-33b6-0077-0eb9ce7163f4",
+      "person_id": "Q8195420",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8962306-C55EA9B7-7C8C-46CC-A016-803D2E71412E",
+      "person_id": "Q8962306",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9025653-E0F12044-D1AD-4A1F-851C-AEFA0509DFD0",
+      "person_id": "Q9025653",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9031365-ec19cd89-4df9-c650-46f6-6f6aa35831be",
+      "person_id": "Q9031365",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9070941-C2FD1372-3070-4B31-A470-5C998286D018",
+      "person_id": "Q9070941",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9077444-A2CAEA60-9F9B-4275-9E77-3DE4B2C24D98",
+      "person_id": "Q9077444",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q2118303",
+      "area_id": "Q44802",
+      "start_date": "2013-12-10",
+      "end_date": "2019-12-09",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9077444-BC3AC52E-23BD-44B6-8B69-A5A88E702C36",
+      "person_id": "Q9077444",
+      "organization_id": "Q2118303",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18711738",
+      "role": {
+        "lang:es": "senador de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Senators"
+      }
+    }
+  ]
+}
