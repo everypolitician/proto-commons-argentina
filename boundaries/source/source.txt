@@ -1,0 +1,8 @@
+National Level
+web site: http://www.ign.gob.ar/
+
+Comunas - Buenos Aires
+https://data.buenosaires.gob.ar/dataset/comunas
+
+Electoral National Camera - CNE
+https://www.electoral.gob.ar/nuevo/index.php
