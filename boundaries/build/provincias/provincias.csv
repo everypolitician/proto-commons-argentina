@@ -1,0 +1,25 @@
+OBJECTID,FNA,GNA,NAM,WIKIDATA,NAME_EN,SAG,IN1,MS_FB_PARE,MS_FB
+1,Provincia de Misiones,Provincia,Misiones,Q44798,Misiones Province,IGN,54,country:ar,country:ar/provincia:misiones
+2,Provincia de San Luis,Provincia,San Luis,Q44818,San Luis Province,IGN,74,country:ar,country:ar/provincia:san-luis
+3,Provincia de San Juan,Provincia,San Juan,Q44805,San Juan Province,IGN,70,country:ar,country:ar/provincia:san-juan
+4,Provincia de Entre Ríos,Provincia,Entre Ríos,Q44762,Entre Ríos Province,IGN,30,country:ar,country:ar/provincia:entre-rios
+5,Provincia de Santa Cruz,Provincia,Santa Cruz,Q44821,Santa Cruz Province,IGN,78,country:ar,country:ar/provincia:santa-cruz
+6,Provincia de Río Negro,Provincia,Río Negro,Q44802,Río Negro Province,IGN,62,country:ar,country:ar/provincia:rio-negro
+7,Provincia del Chubut,Provincia,Chubut,Q45007,Chubut Province,IGN,26,country:ar,country:ar/provincia:chubut
+8,Provincia de Córdoba,Provincia,Córdoba,Q44759,Córdoba Province,IGN,14,country:ar,country:ar/provincia:cordoba
+9,Provincia de Mendoza,Provincia,Mendoza,Q44797,Mendoza,IGN,50,country:ar,country:ar/provincia:mendoza
+10,Provincia de La Rioja,Provincia,La Rioja,Q44796,La Rioja Province,IGN,46,country:ar,country:ar/provincia:la-rioja
+11,Provincia de Catamarca,Provincia,Catamarca,Q44756,Catamarca Province,IGN,10,country:ar,country:ar/provincia:catamarca
+12,Provincia de La Pampa,Provincia,La Pampa,Q44795,La Pampa,IGN,42,country:ar,country:ar/provincia:la-pampa
+13,Provincia de Santiago del Estero,Provincia,Santiago del Estero,Q44827,Santiago del Estero Province,IGN,86,country:ar,country:ar/provincia:santiago-del-estero
+14,Provincia de Corrientes,Provincia,Corrientes,Q44758,Corrientes,IGN,18,country:ar,country:ar/provincia:corrientes
+15,Provincia de Santa Fe,Provincia,Santa Fe,Q44823,Santa Fe Province,IGN,82,country:ar,country:ar/provincia:santa-fe
+16,Provincia de Tucumán,Provincia,Tucumán,Q44829,Tucumán Province,IGN,90,country:ar,country:ar/provincia:tucuman
+17,Provincia del Neuquén,Provincia,Neuquén,Q44800,Neuquén Province,IGN,58,country:ar,country:ar/provincia:neuquen
+18,Provincia de Salta,Provincia,Salta,Q44803,Salta Province,IGN,66,country:ar,country:ar/provincia:salta
+19,Provincia del Chaco,Provincia,Chaco,Q44757,Chaco Province,IGN,22,country:ar,country:ar/provincia:chaco
+20,Provincia de Formosa,Provincia,Formosa,Q44761,Formosa Province,IGN,34,country:ar,country:ar/provincia:formosa
+21,Provincia de Jujuy,Provincia,Jujuy,Q44764,Jujuy Province,IGN,38,country:ar,country:ar/provincia:jujuy
+22,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma,Ciudad Autónoma de Buenos Aires,Q1486,Buenos Aires,IGN,02,country:ar,country:ar/ciudad-autonoma:buenos-aires
+23,Provincia de Buenos Aires,Provincia,Buenos Aires,Q44754,Buenos Aires,IGN,06,country:ar,country:ar/provincia:buenos-aires
+24,"Provincia de Tierra del Fuego, Antártida e Islas del Atlántico Sur",Provincia,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",Q44832,Tierra del Fuego Province,IGN,94,country:ar,country:ar/provincia:tierra-del-fuego-antartida-e-islas-del-atlantico-sur
