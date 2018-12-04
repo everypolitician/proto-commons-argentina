@@ -589,7 +589,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/reyesmariafernanda"
+        }
       ]
     },
     {
@@ -1026,7 +1029,8 @@
     },
     {
       "name": {
-        "lang:es": "Matías Patrón"
+        "lang:es": "Matías Patrón",
+        "lang:en": "Matías Patrón"
       },
       "id": "Q16605486",
       "identifiers": [
@@ -1073,7 +1077,8 @@
     },
     {
       "name": {
-        "lang:es": "Roberto Requeijo"
+        "lang:es": "Roberto Requeijo",
+        "lang:en": "Roberto Requeijo"
       },
       "id": "Q16625702",
       "identifiers": [
@@ -1224,6 +1229,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q170899"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Mármol",
+        "lang:en": "José Mármol"
+      },
+      "id": "Q1709528",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1709528"
         }
       ],
       "links": [
@@ -1856,22 +1877,6 @@
     },
     {
       "name": {
-        "lang:es": "Hugo Abel Sager",
-        "lang:en": "Hugo Abel Sager"
-      },
-      "id": "Q19255355",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q19255355"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:es": "Sofanor de la Silva ",
         "lang:en": "Sofanor de la Silva"
       },
@@ -2067,7 +2072,8 @@
     },
     {
       "name": {
-        "lang:es": "Ángel Pini Elías"
+        "lang:es": "Ángel Pini Elías",
+        "lang:en": "Ángel Pini Elías"
       },
       "id": "Q20016707",
       "identifiers": [
@@ -2443,8 +2449,8 @@
     },
     {
       "name": {
-        "lang:es": "Elva Susana Balvo",
-        "lang:en": "Elva Susana Balvo"
+        "lang:es": "Elva Susana Balbo",
+        "lang:en": "Elva Susana Balbo"
       },
       "id": "Q21856045",
       "identifiers": [
@@ -4320,7 +4326,8 @@
     },
     {
       "name": {
-        "lang:es": "Rafael Ruiz de los Llanos"
+        "lang:es": "Rafael Ruiz de los Llanos",
+        "lang:en": "Rafael Ruiz de los Llanos"
       },
       "id": "Q23942848",
       "identifiers": [
@@ -4399,7 +4406,8 @@
     },
     {
       "name": {
-        "lang:es": "Enrique Mihura"
+        "lang:es": "Enrique Mihura",
+        "lang:en": "Enrique Mihura"
       },
       "id": "Q26720167",
       "identifiers": [
@@ -4414,7 +4422,8 @@
     },
     {
       "name": {
-        "lang:es": "Herminio Juan Quirós"
+        "lang:es": "Herminio Juan Quirós",
+        "lang:en": "Herminio Juan Quirós"
       },
       "id": "Q26720168",
       "identifiers": [
@@ -4429,7 +4438,8 @@
     },
     {
       "name": {
-        "lang:es": "Ramón Mihura"
+        "lang:es": "Ramón Mihura",
+        "lang:en": "Ramón Mihura"
       },
       "id": "Q26720171",
       "identifiers": [
@@ -5484,6 +5494,22 @@
     },
     {
       "name": {
+        "lang:es": "Adrián C. Escobar",
+        "lang:en": "Adrián C. Escobar"
+      },
+      "id": "Q377722",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q377722"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Nicolás Rodríguez Peña",
         "lang:en": "Nicolás Rodríguez Peña"
       },
@@ -5792,7 +5818,7 @@
     {
       "name": {
         "lang:es": "John William Cooke",
-        "lang:en": "William John Cooke"
+        "lang:en": "William John Cookezkere"
       },
       "id": "Q4245666",
       "identifiers": [
@@ -6080,6 +6106,21 @@
     },
     {
       "name": {
+        "lang:en": "Daniel Fernando Arroyo"
+      },
+      "id": "Q47117980",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47117980"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Guillermo Tristan Montenegro"
       },
       "id": "Q47118651",
@@ -6201,6 +6242,7 @@
     },
     {
       "name": {
+        "lang:es": "María Carla Piccolomini",
         "lang:en": "María Carla Piccolomini"
       },
       "id": "Q47142077",
@@ -6501,6 +6543,7 @@
     },
     {
       "name": {
+        "lang:es": "Estela Regidor",
         "lang:en": "Estela Mercedes Regidor Belledone"
       },
       "id": "Q47142758",
@@ -7167,6 +7210,21 @@
     },
     {
       "name": {
+        "lang:en": "Veronica Derna"
+      },
+      "id": "Q47455148",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455148"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Andres Alberto Vallone"
       },
       "id": "Q47455149",
@@ -7174,6 +7232,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q47455149"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Astrid Hummel"
+      },
+      "id": "Q47455151",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47455151"
         }
       ],
       "links": [
@@ -8048,6 +8121,22 @@
     },
     {
       "name": {
+        "lang:es": "Pedro Juan Carlos Vásquez",
+        "lang:en": "Pedro Juan Carlos Vásquez"
+      },
+      "id": "Q5491219",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5491219"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Gabriela Cerruti",
         "lang:en": "Gabriela Cerruti"
       },
@@ -8208,6 +8297,101 @@
     },
     {
       "name": {
+        "lang:en": "Estela Mary Neder"
+      },
+      "id": "Q55773927",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55773927"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Fernando Asencio",
+        "lang:en": "Fernando Asencio"
+      },
+      "id": "Q55825598",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55825598"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sebastian Bragagnolo",
+        "lang:en": "Sebastian Bragagnolo"
+      },
+      "id": "Q55825599",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55825599"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jorge Ricardo Enriquez",
+        "lang:en": "Jorge Ricardo Enriquez"
+      },
+      "id": "Q55825600",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55825600"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rosa Rosario Muñoz",
+        "lang:en": "Rosa Rosario Muñoz"
+      },
+      "id": "Q55825601",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55825601"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Nadia Lorena Ricci",
+        "lang:en": "Nadia Lorena Ricci"
+      },
+      "id": "Q55825603",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55825603"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Graciela Ocaña",
         "lang:en": "Graciela Ocaña"
       },
@@ -8219,7 +8403,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/graciela.ocana"
+        }
       ]
     },
     {
@@ -8336,6 +8523,22 @@
     },
     {
       "name": {
+        "lang:es": "José Ignacio de Mendiguren",
+        "lang:en": "José Ignacio de Mendiguren"
+      },
+      "id": "Q5649262",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5649262"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Adalberto Rodríguez Giavarini",
         "lang:en": "Adalberto Rodríguez Giavarini"
       },
@@ -8416,7 +8619,7 @@
     },
     {
       "name": {
-        "lang:es": "Adolfo Mugica (padre)",
+        "lang:es": "Adolfo Mugica",
         "lang:en": "Adolfo Mugica"
       },
       "id": "Q5658072",
@@ -9363,6 +9566,22 @@
     },
     {
       "name": {
+        "lang:es": "Eduardo René Mondino",
+        "lang:en": "Eduardo René Mondino"
+      },
+      "id": "Q5819621",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5819621"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Eliseo Cantón",
         "lang:en": "Eliseo Cantón"
       },
@@ -9523,7 +9742,8 @@
     },
     {
       "name": {
-        "lang:es": "Ernesto H. Celesia"
+        "lang:es": "Ernesto H. Celesia",
+        "lang:en": "Ernesto H. Celesia"
       },
       "id": "Q5836881",
       "identifiers": [
@@ -10085,7 +10305,8 @@
     },
     {
       "name": {
-        "lang:es": "Humberto Roggero"
+        "lang:es": "Humberto Roggero",
+        "lang:en": "Humberto Roggero"
       },
       "id": "Q5905000",
       "identifiers": [
@@ -10452,7 +10673,8 @@
     },
     {
       "name": {
-        "lang:es": "José Ignacio Garmendia y Alurralde"
+        "lang:es": "José Ignacio Garmendia y Alurralde",
+        "lang:en": "José Ignacio Garmendia y Alurralde"
       },
       "id": "Q5940517",
       "identifiers": [
@@ -10483,7 +10705,8 @@
     },
     {
       "name": {
-        "lang:es": "José María Álvarez Prado"
+        "lang:es": "José María Álvarez Prado",
+        "lang:en": "José María Álvarez Prado"
       },
       "id": "Q5943792",
       "identifiers": [
@@ -11509,7 +11732,8 @@
     },
     {
       "name": {
-        "lang:es": "Pablo Blas"
+        "lang:es": "Pablo Blas",
+        "lang:en": "Pablo Blas"
       },
       "id": "Q6055827",
       "identifiers": [
@@ -12149,7 +12373,7 @@
     {
       "name": {
         "lang:es": "Tristán Achával Rodríguez",
-        "lang:en": "Tristán Achával Rodríguez"
+        "lang:en": "Tristán Rodríguez"
       },
       "id": "Q6152900",
       "identifiers": [
@@ -13236,6 +13460,22 @@
     },
     {
       "name": {
+        "lang:es": "Arturo Mor Roig",
+        "lang:en": "Arturo Mor Roig"
+      },
+      "id": "Q8205992",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8205992"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Augusto Conte",
         "lang:en": "Augusto Conte"
       },
@@ -13757,7 +13997,7 @@
     {
       "name": {
         "lang:es": "Cambiemos",
-        "lang:en": "Cambiemos"
+        "lang:en": "Cambiemos 2i2i4i"
       },
       "id": "Q20749344",
       "classification": "party",
@@ -15646,6 +15886,21 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1709528-6790edcf-aa65-46bf-9bfe-daa00ce80a3b",
+      "person_id": "Q1709528",
+      "organization_id": "Q629133",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1709557-04F5F5E0-78D5-437A-8674-4C83D32108CA",
       "person_id": "Q1709557",
       "organization_id": "Q629133",
@@ -16261,23 +16516,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q19255355-38DA8333-C6A1-4E1E-8C81-8C9CD42A0BC4",
-      "person_id": "Q19255355",
-      "organization_id": "Q629133",
-      "start_date": "2015-01-01",
-      "end_date": "2019-12-01",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:es": "diputado",
-        "lang:en": "deputy"
-      },
-      "role_code": "Q18229570",
-      "role": {
-        "lang:es": "diputado de Argentina",
-        "lang:en": "Member of the Argentine Chamber of Deputies"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q19259938-87BA3293-9A3C-4F3B-872F-6D84CB754527",
       "person_id": "Q19259938",
       "organization_id": "Q629133",
@@ -16863,6 +17101,7 @@
       "organization_id": "Q629133",
       "area_id": "Q44797",
       "start_date": "2015-12-10",
+      "end_date": "2018-04-04",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -18231,6 +18470,7 @@
       "organization_id": "Q629133",
       "area_id": "Q44754",
       "start_date": "2015-12-10",
+      "end_date": "2018-05-17",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -20062,6 +20302,21 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q377722-ee11e627-23a8-41d7-8c53-c0007daf744d",
+      "person_id": "Q377722",
+      "organization_id": "Q629133",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q380742-769CFD1F-008A-482A-9803-E1CD9B7236DB",
       "person_id": "Q380742",
       "organization_id": "Q629133",
@@ -20643,6 +20898,24 @@
       "on_behalf_of_id": "Q42116847",
       "organization_id": "Q629133",
       "area_id": "Q1486",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47117980-cae15bb3-4d25-c829-cffd-e59c1195e8e8",
+      "person_id": "Q47117980",
+      "on_behalf_of_id": "Q15120034",
+      "organization_id": "Q629133",
+      "area_id": "Q44754",
       "start_date": "2017-12-10",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
@@ -21934,10 +22207,44 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q47455148-9b3be88c-4fd8-68be-ce5f-41f76da74f59",
+      "person_id": "Q47455148",
+      "on_behalf_of_id": "Q1072438",
+      "organization_id": "Q629133",
+      "area_id": "Q44798",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q47455149-6bd2b10b-43cc-ef1e-490c-a99081d722b8",
       "person_id": "Q47455149",
       "organization_id": "Q629133",
       "start_date": "2017-12-09",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47455151-ba32ba16-4aaa-5468-18a2-12948c117ce6",
+      "person_id": "Q47455151",
+      "organization_id": "Q629133",
+      "start_date": "2017-12-18",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -22770,6 +23077,21 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q5491219-7c19f12b-4ae7-e753-0c50-7c17fd5e5934",
+      "person_id": "Q5491219",
+      "organization_id": "Q629133",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q5495211-78899BD0-3679-4F6E-81F2-722CC991C39E",
       "person_id": "Q5495211",
       "on_behalf_of_id": "Q47114897",
@@ -22923,6 +23245,111 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q55773927-ff85a752-4a1a-2a81-4b6e-b3c32f18f212",
+      "person_id": "Q55773927",
+      "organization_id": "Q629133",
+      "start_date": "2017-11-22",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55825598-5F6A8648-2B08-4FFC-8EB0-1D703FEDEB17",
+      "person_id": "Q55825598",
+      "on_behalf_of_id": "Q15120034",
+      "organization_id": "Q629133",
+      "area_id": "Q1486",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55825599-6126640C-390C-461F-9D74-2C7A805E2A04",
+      "person_id": "Q55825599",
+      "on_behalf_of_id": "Q1507720",
+      "organization_id": "Q629133",
+      "area_id": "Q44797",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55825600-3845B5E0-CC12-4FF8-BE6A-E9C9EFBAB3FC",
+      "person_id": "Q55825600",
+      "on_behalf_of_id": "Q20749344",
+      "organization_id": "Q629133",
+      "area_id": "Q1486",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55825601-30C3B8EE-D39B-47B6-B4E9-FC75DD04D192",
+      "person_id": "Q55825601",
+      "organization_id": "Q629133",
+      "area_id": "Q45007",
+      "start_date": "2017-12-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55825603-13DCFD35-12B1-42B3-ACFA-154676F27E9D",
+      "person_id": "Q55825603",
+      "on_behalf_of_id": "Q123585",
+      "organization_id": "Q629133",
+      "area_id": "Q44821",
+      "start_date": "2015-12-10",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q5591576-46BD06E3-F3A2-43D9-A623-839232585C43",
       "person_id": "Q5591576",
       "on_behalf_of_id": "Q20749344",
@@ -23037,6 +23464,24 @@
       "id": "http://www.wikidata.org/entity/statement/Q5644472-DF16E5D4-5287-4B3B-A524-28157D4C690C",
       "person_id": "Q5644472",
       "organization_id": "Q629133",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5649262-0b2b66fd-4faa-0181-a5d8-a987aedc5448",
+      "person_id": "Q5649262",
+      "on_behalf_of_id": "Q15120034",
+      "organization_id": "Q629133",
+      "area_id": "Q44754",
+      "start_date": "2017-12-10",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -24024,6 +24469,21 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q5819621-59ed6b08-7916-408c-88c9-78dc3b190eb8",
+      "person_id": "Q5819621",
+      "organization_id": "Q629133",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q5829599-1E5A6247-F4CD-4498-86A7-7323581B46F4",
       "person_id": "Q5829599",
       "organization_id": "Q629133",
@@ -24780,6 +25240,7 @@
       "organization_id": "Q629133",
       "area_id": "Q44821",
       "start_date": "2015-12-10",
+      "end_date": "2018-02-27",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
@@ -27714,6 +28175,21 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q8195340-257AEF87-34D7-46F8-A4EE-D45F12372A94",
       "person_id": "Q8195340",
+      "organization_id": "Q629133",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18229570",
+      "role": {
+        "lang:es": "diputado de Argentina",
+        "lang:en": "Member of the Argentine Chamber of Deputies"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8205992-0e15ffd4-54ce-4eae-a9b0-9c5a591f36a6",
+      "person_id": "Q8205992",
       "organization_id": "Q629133",
       "role_superclass_code": "Q1055894",
       "role_superclass": {

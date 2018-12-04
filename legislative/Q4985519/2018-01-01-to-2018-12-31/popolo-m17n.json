@@ -2,6 +2,41 @@
   "persons": [
     {
       "name": {
+        "lang:es": "Gabriel Solano",
+        "lang:en": "Gabriel Solano"
+      },
+      "id": "Q42310144",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42310144"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/solano.po"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Patricio del Corro",
+        "lang:en": "Patricio del Corro"
+      },
+      "id": "Q58234260",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58234260"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Marcelo Ramal",
         "lang:en": "Marcelo Ramal"
       },
@@ -58,6 +93,27 @@
 
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q42310144-c0d76a53-405f-764b-0658-00387a0f163e",
+      "person_id": "Q42310144",
+      "organization_id": "Q4985519",
+      "area_id": "Q1486",
+      "start_date": "2017-12-05",
+      "role_code": "Q41794659",
+      "role": {
+        "lang:es": "Legislador de la Ciudad de Buenos Aires"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58234260-8e7f1a13-4ad5-7990-a2c4-e9a9923300fb",
+      "person_id": "Q58234260",
+      "organization_id": "Q4985519",
+      "start_date": "2017-12-07",
+      "role_code": "Q41794659",
+      "role": {
+        "lang:es": "Legislador de la Ciudad de Buenos Aires"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5995900-7a4b2100-4dba-66cf-b84c-b580e865a606",
       "person_id": "Q5995900",
