@@ -114,7 +114,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -1198,7 +1198,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -2137,7 +2137,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -3464,6 +3464,11 @@
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18759139"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lázaro Alberto Chiappe"
       },
       "name_es" : {
         "xml:lang" : "es",
@@ -5219,7 +5224,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -5237,12 +5242,12 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chubut"
+        "value" : "Buenos Aires"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Provincia de Buenos Aires"
+        "value" : "Buenos Aires"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5704,7 +5709,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -6023,7 +6028,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -6575,7 +6580,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -6799,12 +6804,12 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mendoza Province"
+        "value" : "Mendoza"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Provincia de Mendoza"
+        "value" : "Mendoza"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -7708,7 +7713,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -7811,7 +7816,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -7829,12 +7834,12 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mendoza Province"
+        "value" : "Mendoza"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Provincia de Mendoza"
+        "value" : "Mendoza"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -8255,7 +8260,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -8273,12 +8278,12 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mendoza Province"
+        "value" : "Mendoza"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Provincia de Mendoza"
+        "value" : "Mendoza"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -8761,6 +8766,11 @@
         "type" : "literal",
         "value" : "José Rubén Uñac"
       },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "José Ruben Uñac"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2118303"
@@ -8851,6 +8861,11 @@
       },
       "name_en" : {
         "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "María Eugenia Catalfamo"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "María Eugenia Catalfamo"
       },
@@ -9042,6 +9057,11 @@
       },
       "name_en" : {
         "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "María Belén Tapia"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "María Belén Tapia"
       },
@@ -9795,7 +9815,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -10910,7 +10930,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -10928,12 +10948,12 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chubut"
+        "value" : "Buenos Aires"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Provincia de Buenos Aires"
+        "value" : "Buenos Aires"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -11008,6 +11028,76 @@
       "facebook" : {
         "type" : "literal",
         "value" : "EstebanBullrich"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q55529524-74b916fc-4bb7-5206-3918-15f676404b25"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "role_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "senador"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18711738"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Argentine Chamber of Senators"
+      },
+      "role_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "senador de Argentina"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55529524"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "María de los Ángeles Sacnun"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "María de los Ángeles Sacnun"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2118303"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Argentine Senate"
+      },
+      "org_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Senado de la Nación Argentina"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q414"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "72"
       }
     }, {
       "statement" : {
@@ -11904,7 +11994,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -15021,7 +15111,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cambiemos"
+        "value" : "Cambiemos 2i2i4i"
       },
       "party_name_es" : {
         "xml:lang" : "es",
@@ -16473,12 +16563,12 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chubut"
+        "value" : "Buenos Aires"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Provincia de Buenos Aires"
+        "value" : "Buenos Aires"
       },
       "role_superclass" : {
         "type" : "uri",
