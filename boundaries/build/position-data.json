@@ -1,0 +1,58 @@
+[
+  {
+    "role_id": "Q18229570",
+    "role_name": {
+      "lang:es": "diputado de Argentina",
+      "lang:en": "Member of the Argentine Chamber of Deputies"
+    },
+    "generic_role_id": "Q1055894",
+    "generic_role_name": {
+      "lang:es": "diputado",
+      "lang:en": "deputy"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q629133",
+    "organization_name": {
+      "lang:es": "Cámara de Diputados de la Nación Argentina",
+      "lang:en": "Chamber of Deputies"
+    }
+  },
+  {
+    "role_id": "Q18711738",
+    "role_name": {
+      "lang:es": "senador de Argentina",
+      "lang:en": "Member of the Argentine Chamber of Senators"
+    },
+    "generic_role_id": "Q15686806",
+    "generic_role_name": {
+      "lang:es": "senador",
+      "lang:en": "senator"
+    },
+    "role_level": "Q6256",
+    "role_type": "Q4175034",
+    "organization_id": "Q2118303",
+    "organization_name": {
+      "lang:es": "Senado de la Nación Argentina",
+      "lang:en": "Argentine Senate"
+    }
+  },
+  {
+    "role_id": "Q41794659",
+    "role_name": {
+      "lang:es": "Legislador de la Ciudad de Buenos Aires"
+    },
+    "generic_role_id": "Q4175034",
+    "generic_role_name": {
+      "lang:es": "legislador",
+      "lang:en": "legislator"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": "Q4175034",
+    "organization_id": "Q4985519",
+    "organization_name": {
+      "lang:es": "Legislatura de la Ciudad de Buenos Aires",
+      "lang:en": "Buenos Aires City Legislature"
+    }
+  }
+]
