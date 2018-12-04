@@ -31,6 +31,7 @@ WHERE {
     (wd:Q41143698 rdf:nil)
     (wd:Q41144338 rdf:nil)
     (wd:Q41144628 rdf:nil)
+    (wd:Q4985519 wd:Q41794659)
     (wd:Q4985544 rdf:nil)
     (wd:Q5795768 rdf:nil)
     (wd:Q5795771 rdf:nil)
@@ -38,7 +39,6 @@ WHERE {
     (wd:Q5795778 rdf:nil)
     (wd:Q5795791 rdf:nil)
     (wd:Q6124883 rdf:nil)
-    (wd:Q4985519 wd:Q41794659)
   }
   ?house (p:P361/ps:P361)* ?legislature .
       ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .

@@ -275,6 +275,17 @@
     ]
   },
   {
+    "comment": "Buenos Aires City Legislature",
+    "house_item_id": "Q4985519",
+    "position_item_id": "Q41794659",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
     "comment": "Buenos Aires Province Chamber of Deputies",
     "house_item_id": "Q4985544",
     "position_item_id": null,
@@ -344,17 +355,6 @@
     "comment": "Senate of Buenos Aires Province",
     "house_item_id": "Q6124883",
     "position_item_id": null,
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
-    "comment": "Buenos Aires City Legislature",
-    "house_item_id": "Q4985519",
-    "position_item_id": "Q41794659",
     "terms": [
       {
         "start_date": "2018-01-01",
