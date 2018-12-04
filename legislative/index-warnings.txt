@@ -1,0 +1,39 @@
+WARNING: no position found for the legislature Senate of Santa Fe
+WARNING: no position found for the legislature legislature of Tierra del Fuego
+WARNING: no position found for the legislature Chubut legislature
+WARNING: no position found for the legislature Chamber of Deputies of Santa Fe
+WARNING: no position found for the legislature Chamber of Deputies of Chaco
+WARNING: no seat count found for the legislature Chamber of Deputies of San Juan
+WARNING: no position found for the legislature Chamber of Deputies of San Juan
+WARNING: no seat count found for the legislature Senate of Salta
+WARNING: no position found for the legislature Senate of Salta
+WARNING: no seat count found for the legislature Chamber of Deputies of Salta
+WARNING: no position found for the legislature Chamber of Deputies of Salta
+WARNING: no seat count found for the legislature Chamber of Deputies of Corrientes
+WARNING: no position found for the legislature Chamber of Deputies of Corrientes
+WARNING: no seat count found for the legislature Senate of Corrientes
+WARNING: no position found for the legislature Senate of Corrientes
+WARNING: no seat count found for the legislature Chamber of Deputies of Jujuy
+WARNING: no position found for the legislature Chamber of Deputies of Jujuy
+WARNING: no position found for the legislature Senate of Catamarca
+WARNING: no position found for the legislature Chamber of Deputies of Catamarca
+WARNING: no seat count found for the legislature legislature of La Rioja
+WARNING: no position found for the legislature legislature of La Rioja
+WARNING: no position found for the legislature Senate of Mendoza
+WARNING: no position found for the legislature Chamber of Deputies of Mendoza
+WARNING: no position found for the legislature Chamber of Deputies of Santiago del Estero
+WARNING: no position found for the legislature legislature of Tucumán
+WARNING: no position found for the legislature Senate of San Luis
+WARNING: no seat count found for the legislature Chamber of Deputies of San Luis
+WARNING: no position found for the legislature Chamber of Deputies of San Luis
+WARNING: no position found for the legislature Legislature of Río Negro
+WARNING: no position found for the legislature legislature of Neuquen
+WARNING: no seat count found for the legislature Chamber of Deputies of Misiones
+WARNING: no position found for the legislature Chamber of Deputies of Misiones
+WARNING: no position found for the legislature Buenos Aires Province Chamber of Deputies
+WARNING: no position found for the legislature Chamber of Deputies of Entre Ríos
+WARNING: no position found for the legislature Formosa Chamber of Deputies
+WARNING: no position found for the legislature La Pampa Chamber of Deputies
+WARNING: no position found for the legislature Santa Cruz Chamber of Deputies
+WARNING: no position found for the legislature Senate of Entre Ríos
+WARNING: no position found for the legislature Senate of Buenos Aires Province
