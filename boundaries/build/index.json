@@ -1,3 +1,16 @@
 [
-
+  {
+    "directory": "country",
+    "area_type_wikidata_item_id": "Q6256",
+    "associations": [
+      {
+        "comment": "president of argentina",
+        "position_item_id": "Q12969145"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    }
+  }
 ]
