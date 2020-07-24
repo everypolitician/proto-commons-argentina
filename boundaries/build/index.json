@@ -1,3 +1,448 @@
 [
-
+  {
+    "directory": "country",
+    "area_type_wikidata_item_id": "Q6256",
+    "associations": [
+      {
+        "comment": "president of argentina",
+        "position_item_id": "Q12969145"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of misiones province",
+        "position_item_id": "Q23979210"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:misiones",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of san luis province",
+        "position_item_id": "Q23978750"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:san-luis",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of san juan province",
+        "position_item_id": "Q23979097"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:san-juan",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of entre ríos",
+        "position_item_id": "Q23979151"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:entre-rios",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of santa cruz province",
+        "position_item_id": "Q23978757"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:santa-cruz",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of río negro province",
+        "position_item_id": "Q23979080"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:rio-negro",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of chubut province",
+        "position_item_id": "Q23978846"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:chubut",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of córdoba",
+        "position_item_id": "Q3249940"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:cordoba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of mendoza",
+        "position_item_id": "Q5589678"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:mendoza",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of la rioja province",
+        "position_item_id": "Q4122443"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:la-rioja",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of the province of catamarca",
+        "position_item_id": "Q16571930"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:catamarca",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of la pampa province",
+        "position_item_id": "Q23978734"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:la-pampa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of santiago del estero",
+        "position_item_id": "Q23979135"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:santiago-del-estero",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of corrientes province",
+        "position_item_id": "Q23979143"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:corrientes",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of santa fe province",
+        "position_item_id": "Q5589713"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:santa-fe",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of tucumán province",
+        "position_item_id": "Q23979122"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:tucuman",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of neuquén province",
+        "position_item_id": "Q5881767"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:neuquen",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of salta province",
+        "position_item_id": "Q23979539"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:salta",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of chaco province",
+        "position_item_id": "Q6352224"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:chaco",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of formosa province",
+        "position_item_id": "Q23979499"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:formosa",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of jujuy province",
+        "position_item_id": "Q23979520"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:jujuy",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q5119",
+    "associations": [
+      {
+        "comment": "head of government of the autonomous city of buenos aires",
+        "position_item_id": "Q21693118"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/ciudad-autonoma:buenos-aires",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of buenos aires province",
+        "position_item_id": "Q1425955"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:buenos-aires",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "provincias",
+    "area_type_wikidata_item_id": "Q44753",
+    "associations": [
+      {
+        "comment": "governor of tierra del fuego",
+        "position_item_id": "Q23979073"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME_EN",
+      "lang:es": "FNA"
+    },
+    "filter": {
+      "match": "country:ar/provincia:tierra-del-fuego-antartida-e-islas-del-atlantico-sur",
+      "column": "MS_FB"
+    }
+  }
 ]
